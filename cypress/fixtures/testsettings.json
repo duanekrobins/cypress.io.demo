@@ -1,0 +1,24 @@
+{
+    "settings": [
+      {
+      "email": "uipinterpreter79@duanekrobinson.com",
+      "firstname": "UIPInterpreter",
+      "lastname": "SeventyNine",
+      "birthdate": "04/07/1964",
+      "address1": "2144 W. 3100 S.",
+      "address2": "Apt 77",
+      "city": "West Valley City",
+      "state": "UT",
+      "zip": "84119",
+      "phone": "406-580-1544",
+      "force_use": "TRUE",
+      "environment": "beta",
+      "kepassfail": "pass",
+      "pepassfail": "fail",
+      "paymenttype": "voucher",
+      "denyregistration": "n",
+      "rejectpayment": "n",
+      "certificationtype": "Professional"
+      }
+    ]
+  }
